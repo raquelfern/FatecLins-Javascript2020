@@ -1,0 +1,7 @@
+Aula 01 - JS
+
+CONSOLE: Para todas as vari�veis aparecem no console deve colocar o console.log() ap�s cada msg.
+SHIFT + ALT + A = Comentar automaticamente. P.s. Pode concatenar uma frase antes ou depois da outra. Exemplo: console.log('Estrutura do ElementoP ',elementoP);
+EVENTO = onclick="()".
+ACESSAR ELEMENTO NO HTML: A clase DOCUMENT tem acesso a toda estrutura da árvore. (document.getElementById).
+ESCREVER NO HTML ATRAVÉS DO JS: (nome.innerHTML='').
